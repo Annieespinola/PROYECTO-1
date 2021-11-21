@@ -1,5 +1,5 @@
 # PROYECTO-1
 
-Mi primer repositorio en GitHub
+# Sobre mi 
 
-Me gusta ::coffee: :pizza:, y :dancer:.
+Mi nombre es Annie Espinola 
